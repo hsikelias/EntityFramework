@@ -1,0 +1,143 @@
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.exe
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.deps.json
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.runtimeconfig.json
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.dll
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.pdb
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.Form1.resources
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.csproj.GenerateResource.cache
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.AssemblyInfoInputs.cache
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.AssemblyInfo.cs
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.csproj.CoreCompileInputs.cache
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.dll
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\refint\OrderDetailsMaintenance.dll
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.pdb
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.genruntimeconfig.cache
+C:\Islam\Fall 2025\Contemporary Programming\M6\New NET8 Lab\Exercise\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\ref\OrderDetailsMaintenance.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Northwind.mdf
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Northwind_log.ldf
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.exe
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.deps.json
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.runtimeconfig.json
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.pdb
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.frmCustomerMaintenance.resources
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.csproj.GenerateResource.cache
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.AssemblyInfoInputs.cache
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.AssemblyInfo.cs
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\refint\OrderDetailsMaintenance.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.pdb
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.genruntimeconfig.cache
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\ref\OrderDetailsMaintenance.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDet.7FB3843E.Up2Date
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\obj\Debug\net8.0-windows\OrderDetailsMaintenance.csproj.AssemblyReference.cache
+C:\Users\chowd\Downloads\OrderDetailsMaintenance\OrderDetailsMaintenance\bin\Debug\net8.0-windows\OrderDetailsMaintenance.dll.config
